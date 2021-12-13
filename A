@@ -1,0 +1,9 @@
+import io.StdIn._
+println(“This program will calculate the area, circumference, and diameter of a circle given its radius. ”)
+println(“radius”)
+val w = readInt()
+val x = 3.14*str1*str1
+val y = 2*math.Pi*str1
+val z = 2*str1
+var str1 = “A circle of radius “ + w + “has an area of “ + x + “, a circumference of “ + y + “, and a diameter of “ + z
+print(str1) //
